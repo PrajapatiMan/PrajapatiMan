@@ -1,4 +1,4 @@
-![logo](https://github.com/PrajapatiMan/PrajapatiMan/blob/main/banner2.png?raw=true)
+![logo](https://github.com/PrajapatiMan/PrajapatiMan/blob/main/Untitled%20design.png?raw=true)
 <h1 align="center">Hi 👋, I'm Man Prajapati</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
