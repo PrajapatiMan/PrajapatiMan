@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm MAN PRAJAPATI</h1>
 <h3 align="center">A Passionate Frontend Developer from India</h3>
 
- <img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fpriyan1995%2Fpriyan1995&psig=AOvVaw2uyBrkEZj1UdS_z3qHMcKQ&ust=1748153903889000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDHq_a6u40DFQAAAAAdAAAAABAU">
+ <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajapatiman&label=Profile%20views&color=0e75b6&style=flat" alt="prajapatiman" /> </p>
 
